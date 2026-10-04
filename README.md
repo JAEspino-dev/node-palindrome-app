@@ -1,22 +1,26 @@
-# ↔️ Week08 Bootcamp2019a Project: Server Side Palindrome Checker
+# ☀️ Palindrome App
+Use this program if you want to check if a word is a Palindrome!
 
-### Goal: Create a simple web application that uses the fs and http modules to validate if a string is a palindrome server side.
+# 📋 How to use
+Open the app in your browser.   
+Enter a word.   
+Instantly view if word is a palindrome.     
 
-### How to submit your code for review:
+# 📷 Images
+<img width="1438" height="1176" alt="Screenshot 2026-10-04 at 5 37 53 PM" src="https://github.com/user-attachments/assets/357a302e-8d18-4c4f-979c-0841a5308753" />
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+# ✨ Features
+Fully responsive design for desktop and mobile.         
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+# 🔨 Built With
+HTML5 – structure,    
+CSS3 – responsive design and background,    
+JavaScript - fetch image of the day from NASA API.  
+
+# 🧠 What I Learned
+How to work with Node.    
+How to work with APIs.   
+How to use fetch().   
+How to work with JSON data.  
+How to manipulate the DOM.  
+How to handle errors.  

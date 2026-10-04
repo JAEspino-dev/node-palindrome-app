@@ -7,7 +7,7 @@ Enter a word.
 Instantly view if word is a palindrome.     
 
 # 📷 Images
-<img width="1438" height="1176" alt="Screenshot 2026-10-04 at 5 37 53 PM" src="https://github.com/user-attachments/assets/357a302e-8d18-4c4f-979c-0841a5308753" />
+<img width="1438" height="1176" alt="Screenshot 2026-10-04 at 5 37 53 PM" src="https://github.com/user-attachments/assets/5ea0abb6-b575-4056-8019-d5b2498cb2f7" />
 
 # ✨ Features
 Fully responsive design for desktop and mobile.         

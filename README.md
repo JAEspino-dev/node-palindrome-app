@@ -10,7 +10,7 @@ Use this program if you want to check if a word is a Palindrome!
 <img width="1438" height="1176" alt="Screenshot 2026-10-04 at 5 37 53 PM" src="https://github.com/user-attachments/assets/5ea0abb6-b575-4056-8019-d5b2498cb2f7" />
 
 # ✨ Features
-* Responsive design for desktop and mobile.         
+* Responsive design for desktop and mobile        
 
 # 🔨 Built With
 * HTML5 – structure    
